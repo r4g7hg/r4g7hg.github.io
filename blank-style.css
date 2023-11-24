@@ -1,0 +1,49 @@
+* {
+   background-color: pink;
+}
+
+div p {
+   color: white;
+   text-align: center;
+}
+
+* {
+	front-family:"bagel Fat One","Times New Roman",sans-serif
+}
+
+ul {
+	color:white;
+	
+}
+[href] { 
+     color:white;
+}
+
+h1{
+	color:white;
+	text-align: center;
+}
+h2{
+	color:white;
+	text-align: center;
+}
+h3{
+	color:white;
+	text-align: center;
+} 
+h4{
+	color:white;
+	text-align: center;
+}
+table{
+	color:white;
+	text-align: center;
+}
+.headline {
+	text-align: center;
+	
+}
+img {
+	margin: 0 30%;
+	
+}
