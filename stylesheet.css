@@ -1,0 +1,244 @@
+*{
+   color:white;
+}
+#navibar {
+    text-align: center;
+
+}
+
+#navibarlillia{
+    
+    text-align: center;
+     
+}
+
+#navibarbel-veth{
+
+    text-align: center;
+
+
+}
+
+#navibarkayn {
+    
+    text-align: center;
+
+}
+
+#texthome {
+     
+    text-align: center;
+     
+
+}
+
+#profilbild {
+    margin-left:200px; 
+    display:inline-flex;
+    
+
+
+}
+#Stats{
+    margin-top:10px;
+    margin-left:160px;
+    display:inline-flex;
+    
+}
+#Stats-Belveth{
+    margin-top:10px;
+    margin-left:185px;
+    display:inline-flex;
+}
+#Statstext{
+    display:inline-block;
+    margin-left:50px;
+    text-align:center;
+    vertical-align: baseline;
+    top: 60%;
+    left: 35%;
+    position: absolute;
+    
+}
+#Statstext-Belveth{
+    display:inline-block;
+    margin-left:70px;
+    text-align:center;
+    vertical-align: baseline;
+    top: 60%;
+    left: 40%;
+    position: absolute;
+    margin: 0px;
+
+}
+img{
+    border:5px solid black;
+    transition: transform 0.7s;
+
+}
+
+img:hover{
+    
+    transform: scale(1.05,1.05);
+    background-position: 100% 50%;
+    transition: ease-in 1s;
+
+}
+
+h1 {
+    text-align: center;
+
+
+}
+a {
+
+    text-align:center;
+    color: white;
+}
+#FarbeLillia {
+    background-color: pink;
+
+}
+#Lilliatext {
+    
+    display:inline-block;
+    margin-left:50px;
+    text-align:center;
+
+
+}
+#Passiv-bild{
+    display:inline-flex;
+    margin-left:200px;
+    margin-bottom:20px;
+
+}
+#Passiv-text{
+    display: inline-block;
+    text-align:center;
+    margin-left: 250px;
+
+}
+#Passiv-textbel{
+    display:inline-block;
+    text-align: center;
+    margin-left: 290px;
+}
+
+#Fähigkeit1-bild{
+    display:inline-flex;
+    margin-left:200px;
+    margin-bottom: 20px;
+}
+
+#Fähigkeit1-text{
+    text-align: center;
+    display:inline-block;
+    margin-left: 270px;
+
+}
+#Fähigkeit1-textbel{
+    text-align:center;
+    display:inline-Block;
+    margin-left: 280px; 
+}
+#Fähigkeit2-bild{
+
+    display:inline-flex;
+    margin-left: 200px;
+    margin-bottom: 20px;
+
+
+}
+
+#Fähigkeit2-text{
+    text-align:center;
+    display:inline-block;
+    margin-left: 270px;
+    
+}
+#Fähigkeit2-textbel{
+    text-align:center;
+    display:inline-block;
+    margin-left: 275px;
+}
+
+#Fähigkeit3-bild{
+    display:inline-flex;
+    margin-left: 200px;
+    margin-bottom: 20px; 
+
+
+}
+
+#Fähigkeit3-text{
+    text-align:center;
+    display:inline-block;
+    margin-left: 290px;
+}
+#Fähigkeit3-textbel{
+    text-align:center;
+    display:inline-block;
+    margin-left:260px;
+}
+
+#Ult-bild{
+    display:inline-flex;
+    margin-left: 200px;
+    margin-bottom: 20px;
+
+
+}
+
+#Ult-text{
+    display:inline-block;
+    text-align: center;
+    margin-left: 220px;
+
+
+}
+#Ult-textbel{
+    display:inline-block;
+    text-align: center;
+    margin-left:270px;
+    margin-bottom: 50px;
+}
+h2{
+   text-align: center;
+   margin-bottom:20px;
+}
+#Bel-vethtext{
+    display:inline-block;
+    margin-left:50px;
+    text-align:center;
+}
+#Kayntext{
+    display:inline-block;
+    margin-left:50px;
+    text-align:center; 
+}
+
+
+#FarbeBelVeth {
+background-color: blueviolet;
+
+}
+#Belvethnavibild{
+    margin-right: 300px;
+    display:inline; 
+}
+#Kaynnavibild {
+    display:inline; 
+    margin-left: 300px;
+}
+#Lillianavibild {
+    display:inline;
+    margin-right:350px;
+}
+#Home{
+    display:inline;
+    margin-right:80px;
+}
+#Kayn-color{
+    background-color: black;
+}
