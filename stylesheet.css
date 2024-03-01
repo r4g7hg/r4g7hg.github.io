@@ -71,6 +71,16 @@
     margin: 0px;
 
 }
+#Stats-textKayn{
+    display:inline-block;
+    margin-left:190px;
+    text-align:center;
+    vertical-align: baseline;
+    top: 60%;
+    left: 37%;
+    position: absolute;
+    margin: 0px; 
+}
 img{
     border:5px solid black;
     transition: transform 0.7s;
@@ -181,7 +191,31 @@ a {
     display:inline-block;
     margin-left:260px;
 }
-
+#Fähigkeit1-textKayn{
+    text-align:center;
+    display:inline-block;
+    margin-left: 290px;
+}
+#Passiv-textKayn{
+    text-align:center;
+    display:inline-block;
+    margin-left: 290px;
+}
+#Fähigkeit2-textKayn{
+    text-align:center;
+    display:inline-block;
+    margin-left: 285px;
+}
+#Fähigkeit3-textKayn{
+    text-align:center;
+    display:inline-block;
+    margin-left: 285px;
+}
+#Ult-textKayn{
+    text-align:center;
+    display:inline-block;
+    margin-left: 295px;
+}
 #Ult-bild{
     display:inline-flex;
     margin-left: 200px;
@@ -235,10 +269,36 @@ background-color: blueviolet;
     display:inline;
     margin-right:350px;
 }
+#Lillianavibild2{
+    display:inline;
+    margin-left:150px;
+}
 #Home{
     display:inline;
     margin-right:80px;
 }
+#home2{
+    display:inline;
+    margin-right:60px;
+}
 #Kayn-color{
     background-color: black;
+}
+#index-color{
+    background-color:darkblue;
+}
+.Lillianavibild2{
+   
+    margin-left:0px;
+}
+#Kaynnavibarbild2{
+    
+    margin-left:0px;
+}
+#Belvethnavibild2{
+   
+    margin-left: 0px;
+}
+#center-text-index{
+    text-align: center;
 }
